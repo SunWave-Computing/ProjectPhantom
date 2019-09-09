@@ -1,11 +1,10 @@
 <img src="images/cover.png" alt="Self-Driving Car" width="800px">
 
-## We’re Building an Open Source Self-Driving Car
-#### And we want your help!
+## We’re Building a Self-Driving Car
 
 At [Udacity](https://udacity.com), we believe in democratizing education. How can we provide opportunity to everyone on the planet? We also believe in teaching really amazing and useful subject matter. When we decided to build the [Self-Driving Car Nanodegree program](https://www.udacity.com/course/self-driving-car-engineer-nanodegree--nd013), to teach the world to build autonomous vehicles, we instantly knew we had to tackle our own self-driving car too.
 
-Together with [Google](https://google.com) Self-Driving Car founder and [Udacity](https://udacity.com) President Sebastian Thrun, we formed our core Self-Driving Car Team. One of the first decisions we made? **Open source code, written by hundreds of students from across the globe!**
+Together with [Google](https://google.com) Self-Driving Car founder and [Udacity](https://udacity.com) President Sebastian Thrun, we formed our core Self-Driving Car Team. One of the first decisions we made? 
 
 **[You can read more about our plans for this project](https://medium.com/udacity/were-building-an-open-source-self-driving-car-ac3e973cd163#.bm5c5chek).**
 
