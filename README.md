@@ -1,4 +1,4 @@
-<img src="images/cover.png" alt="Self-Driving Car" width="800px">
+﻿<img src="images/cover.png" alt="Self-Driving Car" width="800px">
 
 ## We’re Building a Self-Driving Car
 
@@ -9,6 +9,7 @@ Together with [Google](https://google.com) Self-Driving Car founder and [Udacity
 **[You can read more about our plans for this project](https://medium.com/udacity/were-building-an-open-source-self-driving-car-ac3e973cd163#.bm5c5chek).**
 
 ## Contributions
+Drone
 Here's a list of the projects we've open sourced:
 
 * [**Deep Learning Steering Models**](https://github.com/udacity/self-driving-car/tree/master/steering-models) – Many different neural networks trained to predict steering angles of the car. More information [here](https://medium.com/p/d73217f2492c).
