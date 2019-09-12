@@ -33,3 +33,5 @@ Each challenge will contain awesome prizes (cash and others) for the most effect
 ## Open Source Base Software Support
 <img src="images/autoware_logo_1.png" alt="Autoware" width="200px"><br>
 <img src="images/Tier_IV_logo_1.png" alt="Tier IV" width="200px">
+
+#The self-driving cars work alongside Project Gotham, Rainbow and Metropolis, for the battery sustainment of the cars, visual map for geolocation and OCR readability of the destination address respectively. This technology is that of a composite integration.
