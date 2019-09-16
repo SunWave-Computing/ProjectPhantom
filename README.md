@@ -1,6 +1,6 @@
 ﻿<img src="images/cover.png" alt="Self-Driving Car" width="800px">
 
-## We’re Building a Self-Driving Car
+## We’re Building a Self-Driving Car!
 
 At SunWave-Computing, we believe in democratizing education. How can we provide opportunity to everyone on the planet? We also believe in teaching really amazing and useful subject matter. When we decided to build the [Self-Driving Car Nanodegree program](https://www.udacity.com/course/self-driving-car-engineer-nanodegree--nd013), to teach the world to build autonomous vehicles, we instantly knew we had to tackle our own self-driving car too..
 
