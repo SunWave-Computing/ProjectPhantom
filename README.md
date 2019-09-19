@@ -1,6 +1,6 @@
 ﻿<img src="images/cover.png" alt="Self-Driving Car" width="800px">
 
-## We’re Building a Self-Driving Car!!
+### We’re Building a Self-Driving Car!!
 
 At SunWave-Computing, we believe in democratizing education. How can we provide opportunity to everyone on the planet? We also believe in teaching really amazing and useful subject matter. When we decided to build the [Self-Driving Car Nanodegree program](https://www.udacity.com/course/self-driving-car-engineer-nanodegree--nd013), to teach the world to build autonomous vehicles, we instantly knew we had to tackle our own self-driving car too..
 
@@ -8,7 +8,7 @@ Together with [Google](https://google.com) Self-Driving Car founder and [Udacity
 
 **[You can read more about our plans for this project](https://medium.com/udacity/were-building-an-open-source-self-driving-car-ac3e973cd163#.bm5c5chek).**
 
-## Contributions
+### Contributions
 Here's a list of the projects we've open sourced:
 
 * [**Deep Learning Steering Models**](https://github.com/udacity/self-driving-car/tree/master/steering-models) – Many different neural networks trained to predict steering angles of the car. More information [here](https://medium.com/p/d73217f2492c).
@@ -17,10 +17,10 @@ Here's a list of the projects we've open sourced:
 * [**Driving Datasets**](https://github.com/udacity/self-driving-car/tree/master/datasets) – Over 10 hours of driving data (LIDAR, camera frames and more)
 * [**ROS Steering Node**](https://github.com/udacity/self-driving-car/tree/master/steering-models/steering-node) – Useful to enable the deep learning models to interact with ROS
 
-## How to Contribute
+### How to Contribute
 Like any open source project, this code base will require a certain amount of thoughtfulness. However, when you add a 2-ton vehicle into the equation, we also need to make safety our absolute top priority, and pull requests just don’t cut it. To really optimize for safety, we’re breaking down the problem of making the car autonomous into **[Udacity Challenges](http://udacity.com/self-driving-car)**.
 
-#### Challenges
+### Challenges
 Each challenge will contain awesome prizes (cash and others) for the most effective contributions, but more importantly, the challenge format enables us to benchmark the safety of the code before we ever think of running it in the car. We believe challenges to be the best medium for us to build a Level-4 autonomous vehicle, while at the same time offering our contributors a valuable and exciting learning experience.
 
 **You can find a current list of challenges, with lots of information, on the [Udacity self-driving car page](http://udacity.com/self-driving-car). This is the primary way to contribute to this open source self-driving car project.**
