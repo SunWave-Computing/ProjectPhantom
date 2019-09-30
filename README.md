@@ -36,4 +36,4 @@ Each challenge will contain awesome prizes (cash and others) for the most effect
 
 #The self-driving cars work alongside Project Gotham, Rainbow and Metropolis, for the battery sustainment of the cars, visual map for geolocation and OCR readability of the destination address respectively. This technology is that of a composite integration.
 
-#Phanthom was updated 9/12/19/.
+#Phanthom was updated 9/12/19/.....
